@@ -17,4 +17,4 @@ puts "Norman Bates"
 print "Overall, we have "
 # it is important to use print to not add a new line characters at this time.
 print 11
-print " great students"
+puts " great students"
